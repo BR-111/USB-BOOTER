@@ -1,5 +1,5 @@
 # USB-BOOTER
-A small program for booting a usb.
+A small program for booting a usb. Just for Linux. 
 
 ### How to use:
 <p> $ sudo python3 USB_BOOTER.py </p>
